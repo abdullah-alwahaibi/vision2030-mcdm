@@ -4,7 +4,7 @@ Which Vision 2030 projects should come first?.
 
 An interactive dashboard and reproducible analysis for a research report that ranks 12 Saudi giga- and infrastructure projects on 19 sub-criteria in five groups (financial viability, market potential, risk, strategic fit, implementation readiness).
 
-**Open it:** download `index.html` and double-click it. No install, works offline.
+**Open it:** download `https://abdullah-alwahaibi.github.io/vision2030-mcdm/` and double-click it. No install, works offline.
 
 ## Methods
 - **Weighting:** AHP, Fuzzy AHP (Buckley geometric mean) and Best-Worst Method (BWM).
