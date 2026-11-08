@@ -1,5 +1,6 @@
 # Prioritizing Saudi Vision 2030 projects with fuzzy multi-criteria decision making
 
+Which Vision 2030 projects should come first? A fuzzy multi-criteria evaluation of 12 projects on 19 criteria, with a live dashboard and a reproducible Python analysis.
 An interactive dashboard and reproducible analysis for a research report that ranks 12 Saudi giga- and infrastructure projects on 19 sub-criteria in five groups (financial viability, market potential, risk, strategic fit, implementation readiness).
 
 **Open it:** download `index.html` and double-click it. No install, works offline.
